@@ -35,6 +35,7 @@ ToastManager.warningAtPosition(context, "This is a warning message at position",
 Screenshots
 Success Toast
 ![image](https://github.com/avibaazov/ToastX/assets/110473435/8fec9aac-5377-4963-aa3c-d319172585ad)
+<img src="https://github.com/avibaazov/ToastX/assets/110473435/8fec9aac-5377-4963-aa3c-d319172585ad" width="300" alt="Success Toast">
 
 Error Toast
 
