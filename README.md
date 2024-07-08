@@ -25,7 +25,7 @@ To display a simple toast, use the following methods:
     ToastManager.warning(context, "This is a warning message", Toast.LENGTH_SHORT);
 
 
-**Custom Positioning**
+### Custom Positioning
 
 
 To display a toast at a custom position, use the following methods:
@@ -39,7 +39,7 @@ To display a toast at a custom position, use the following methods:
     ToastManager.infoAtPosition(context, "This is an info message at position", Toast.LENGTH_SHORT, Gravity.CENTER, 0, 100);
 
     ToastManager.warningAtPosition(context, "This is a warning message at position", Toast.LENGTH_SHORT, Gravity.TOP, 0, 100);
-Parameters for Custom Positioning
+### Parameters for Custom Positioning
 
   context: The context in which the toast should be displayed.
   
